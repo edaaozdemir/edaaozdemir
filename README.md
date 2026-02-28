@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi, I'm Eda!
+I am a Computer Science student studying at National College of Ireland, interested in problem solving, AI, game development and strengthening my core programming and problem solving skills.
+
+Languages: Python, JS
+Tools: Git, VS Code
+Interests: AI, Game Development
+Currently learning: Java, C#, ThreeJS, Game Development
+
 
 <!--
 **edaaozdemir/edaaozdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
